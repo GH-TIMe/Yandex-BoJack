@@ -2,7 +2,7 @@
 
 Тестовое задание ШРИ Яндекса (Задача 1: Портфолио). 
 
-Демо приложения: 
+Демо приложения: [https://gh-time.github.io/Yandex-BoJack](https://gh-time.github.io/Yandex-BoJack/)
 
 ## :memo: Полный стек:
 
@@ -10,7 +10,7 @@
 - LESS (препроцессор CSS)
 - gulp (таск-менеджер для автоматизации рабочего процесса)
 
-Ссылка на задание: [https://habr.com/ru/company/yandex/blog/454584/](https://habr.com/ru/company/yandex/blog/454584/)
+Ссылка на задание: [https://habr.com/ru/company/yandex/blog/454584](https://habr.com/ru/company/yandex/blog/454584/)
 
 Ссылки на макеты: [1000px](https://yandex-shri-minsk-2019.github.io/task-1/#artboard0),
                   [600px](https://yandex-shri-minsk-2019.github.io/task-1/#artboard1),
